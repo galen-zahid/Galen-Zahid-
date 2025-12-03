@@ -1,9 +1,3 @@
-**FINAL README.md**
-
-**You can copy–paste directly to GitHub.**
-
----
-
 # FSM Manufacturing Monitoring & Control System
 
 ### **(C# Real-Time Simulation + Verilog HDL for FPGA Implementation)**
