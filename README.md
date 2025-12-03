@@ -1,4 +1,4 @@
-**FINAL README.md (ENGLISH VERSION)**
+**FINAL README.md**
 
 **You can copy–paste directly to GitHub.**
 
@@ -38,9 +38,6 @@ FsmGraph/
 │   ├── manufacturing_fsm.v        # Main FSM module
 │   ├── tb_manufacturing_fsm.v     # Testbench
 │   ├── manufacturing_fsm.vcd      # Simulation waveform
-│   └── README_VERILOG.md          # (optional) dedicated HDL documentation
-│
-└── 2042241044_Galen Zahid Wajendra_Tugas Eldig.pdf
 ```
 
 ---
